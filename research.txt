@@ -4,3 +4,5 @@ Topics
 - AI
 - Cloud
 - Cybersecurity
+- GitHub
+- Docker
